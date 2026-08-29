@@ -1,9 +1,13 @@
 # Python Laboratory Work
 
-A collection of Python laboratory exercises completed during undergraduate coursework.
+> A collection of Python laboratory exercises and programming practice completed during undergraduate coursework.
 
 ## Purpose
 
-This repository is kept as an academic record and reference for Python fundamentals, programming exercises, and laboratory work.
+This repository is maintained as an **academic record and learning reference** covering Python fundamentals and laboratory exercises.
 
-It is not intended to represent a production software project.
+It is intentionally separate from my portfolio projects and is not intended to represent a production application.
+
+## Repository status
+
+**Academic archive / learning repository.**
